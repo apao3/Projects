@@ -1,6 +1,4 @@
-package cse250.pa1;
-
-import cse250.pa1.LinkedListNode;
+import SortedList.LinkedListNode;
 
 import javax.swing.text.html.Option;
 import java.util.Iterator;
