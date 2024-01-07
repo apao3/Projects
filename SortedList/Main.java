@@ -1,6 +1,4 @@
-package cse250.pa1;
-
-import cse250.pa1.SortedList;
+import SortedList.SortedList;
 import java.util.Optional;
 import java.util.Random;
 
